@@ -6,24 +6,20 @@ Robot Controller is a turn-based visual programming puzzle where the player lead
 
 # Gameplay
 
-The player can activate a list of codeblocks which let the robot perform certain actions (move, turn).
+Press the green play button to activate a list of code-blocks which let the robot perform certain actions (move, turn).
 
-The player can add Codeblocks by clicking on the buttons on the right side of the screen, which add their respective blocks into the list.
+Add code-blocks to the list by clicking on the code-block-buttons on the right side of the screen.
 
-The player can rearrange the codeblocks in the list, by drag & drop.
-The player can remove codeblocks by drag & dropping them outside of the list.
+The sequence of code-blocks can be altered by rearranging the blocks via drag & drop.
+To remove a code-block drag the block out of the list.
 
-The player can control, how often a codeblock is called, by editing the input field of the codeblock.
+The input field of each code-block can be used to activate them multiple times. 
 
-Should the sequence not turn out as expected, the player is able to restart the sequence with the restart button on the bottom of the screen, resetting the robots position and available energy.
+The blue restart button on the bottom of the screen resets the sequence, the robots position and available energy.
 
 # Obstacles
 
-A level can contain:
-
-- walls, which block the robots movement
-- goo, which need much more energy to traverse
-- wet floor, which needs slightley more energy to traverse
+The goo and water obstacles require more energy to traverse.
 
 # Goal
 
