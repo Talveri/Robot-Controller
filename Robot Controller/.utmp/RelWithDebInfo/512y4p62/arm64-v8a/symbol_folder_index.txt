@@ -1,0 +1,1 @@
+/home/talveri/Dokumente/_Studium/FH Technikum/SS2026/GameDev Grundlagen/DIETER/Unity Project/robert-assembly/Robert Assembly/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/512y4p62/obj/arm64-v8a

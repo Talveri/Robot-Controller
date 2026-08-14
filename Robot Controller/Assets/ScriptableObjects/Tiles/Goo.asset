@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd927190d92a3fd7bb351fdf306c14ad, type: 3}
+  m_Name: Goo
+  m_EditorClassIdentifier: Assembly-CSharp::TileGroupData
+  tiles:
+  - {fileID: 11400000, guid: 544dd269c54539ad4aafebf8d6dcaa3e, type: 2}
+  - {fileID: 11400000, guid: 3edca60ad7ab9bfc593c036db453b109, type: 2}
+  - {fileID: 11400000, guid: b3d2cfd528262e22f801b34dd34d4353, type: 2}
+  terrainType: 6

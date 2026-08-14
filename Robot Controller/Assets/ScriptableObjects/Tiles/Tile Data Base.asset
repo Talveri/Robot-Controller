@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3fa2dd7361faa54a2c1e6350fdb5f7, type: 3}
+  m_Name: Tile Data Base
+  m_EditorClassIdentifier: Assembly-CSharp::TileDataBase
+  groups:
+  - {fileID: 11400000, guid: 77bd1d7d6d41d033a804516b3b682248, type: 2}
+  - {fileID: 11400000, guid: dda2351b06995df4e9278fa733e153d1, type: 2}
+  - {fileID: 11400000, guid: 1a547a843b1c12f46ace61499d6ec40a, type: 2}

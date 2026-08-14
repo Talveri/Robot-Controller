@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd927190d92a3fd7bb351fdf306c14ad, type: 3}
+  m_Name: WetFloor
+  m_EditorClassIdentifier: Assembly-CSharp::TileGroupData
+  tiles:
+  - {fileID: 11400000, guid: 80ca055d5c83c9e509dd9b99f1f206b9, type: 2}
+  - {fileID: 11400000, guid: d2441cca38f8207d683bab13fcd839b5, type: 2}
+  - {fileID: 11400000, guid: 64f8415407bde70cd8cffdb6598f86f4, type: 2}
+  - {fileID: 11400000, guid: b00e5bb632749e63fbbcd35265c98cd5, type: 2}
+  terrainType: 4
